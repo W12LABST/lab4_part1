@@ -1,0 +1,21 @@
+Opis realizacji zadań z laboratorium nr. 4. część pierwsza (zadania 1-3).
+
+Zadanie 1)
+	Potwierdzam, że zapoznałem się z dokumentacją na stronie Oracle dot. podstawowych wyjątków.
+
+Zadanie 2)
+	Program zgodnie z założeniami:
+	- przyjmuje znaki z klawiatury od użytkownika
+	- zamienia wyżej wspomniane znaki na zmienne typu int za pomocą metody Integer.parseInt() 
+	- zapewniona została odpowiednia obsługa wyjątków. Po wpisaniu oraz zatwierdzeniu 
+	  nieodpowiednich znaków (nie tworzących w następstwie liczby całkowitej) wypisuje komunikat
+	  wraz z kodem exit code 0, co oznacza poprawne zakończenie programu.
+oraz sprawdza otrzymaną wartość poprzez dodanie jej do istniejącej wcześniej zmiennej typu int.
+
+Zadanie 3)
+	Program zgodnie z założeniami:
+	- listuje wybrany przez użytkownika n-ty element tablicy
+	- zapewniona została odpowiednia obsługa wyjątków. Po wpisaniu oraz zatwierdzeniu 
+	  nieodpowiednich znaków (nie tworzących w następstwie liczby całkowitej oraz odpowiedniego
+	  adresu zadeklarowanej tablicy) wypisuje komunikat wraz z kodem exit code 0, co oznacza
+	  poprawne zakończenie programu.
